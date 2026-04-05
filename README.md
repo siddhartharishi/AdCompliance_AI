@@ -102,7 +102,7 @@ npm run dev
 ---
 
 ## 📌 Example Output
-![Ad Compliance AI output](screenshots/adc_ui1.png)
+![Ad Compliance AI output](screenshots/adc_ui2png)
 
 ---
 
