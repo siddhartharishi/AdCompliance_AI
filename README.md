@@ -53,7 +53,7 @@ Ad Compliance AI is an intelligent system that automatically audits video advert
 * **Search:** Azure AI Search (Vector Store)
 * **Video Processing:** Azure Video Indexer
 * **Monitoring and Observability:** Open Telemetry and Azure Application Insights 
-* **Frontend:** (React js)
+* **Frontend:** (TypeScript)
 
 ---
 
