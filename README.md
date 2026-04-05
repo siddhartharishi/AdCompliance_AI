@@ -2,9 +2,9 @@
 
 Ad Compliance AI is an intelligent system that automatically audits video advertisements for regulatory and brand compliance using AI. It analyzes video content (speech + on-screen text) and flags potential violations based on a knowledge base of rules.
 
-![Ad compliance AI UI][screenshots\adc_ui2.png]
----
+![Ad compliance AI UI](screenshots/adc_ui1.png)
 
+---
 ## 🚀 What It Does
 
 * 🎥 Processes video ads (YouTube links)
@@ -102,7 +102,7 @@ npm run dev
 ---
 
 ## 📌 Example Output
-![Ad Compliance AI output][screenshots/adc_ui1.png]
+![Ad Compliance AI output](screenshots/adc_ui1.png)
 
 ---
 
